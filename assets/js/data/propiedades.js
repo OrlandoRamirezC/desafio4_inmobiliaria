@@ -92,4 +92,4 @@ const propiedadesAlquiler = [
     }
 ]
 
-export {propiedadesAlquiler, propiedadesVenta}
+export { propiedadesAlquiler, propiedadesVenta }
